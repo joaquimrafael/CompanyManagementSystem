@@ -1,0 +1,2 @@
+2062000663;geovane;4000.0;freelancer;Dados;5;300.0
+177861611;Kleber;1000.0;permanente;Dados
