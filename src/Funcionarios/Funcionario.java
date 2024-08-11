@@ -1,9 +1,3 @@
-/*Lucca Blumer/10416985
-* Vinicius Uliana/10418646
-* Guilherme Olimpio/10417809
-* Andrey Antzuk Camargo 10399782
-* Projeto POO
-*/
 
 package Funcionarios;
 import Departamentos.*;
